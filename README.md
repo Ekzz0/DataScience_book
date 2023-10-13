@@ -11,7 +11,7 @@
 * [Оформил ли клиент банка срочный депозит?](https://github.com/Ekzz0/ML_practice/blob/main/ML_practice/term_deposit_classification.ipynb)
 * [Спам-фильтр ](https://github.com/Ekzz0/ML_practice/blob/main/ML_algorithms/Naive%20Bayes%20Classifier/NaiveBayes(Spam%20Filter).py)
 
-Ссылка на все используемые датасеты можно найти в `/datasets/...`
+Ссылки на все используемые датасеты можно найти в `/datasets/...`
 
 #
 ㅤ 
