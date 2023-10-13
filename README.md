@@ -1,4 +1,4 @@
-## ○ Репозиторий, в котором представлен весь путь моего познания машинного обучения
+## Репозиторий, в котором представлен весь путь моего познания машинного обучения
 В данном репозитории можно найти задания и примеры из следующих источников:
 * Data Science. Наука о данных с нуля. – Джоэл Грас ;
 * Машинное обучение с использованием Python. Сборник рецептов. – Крис Элбон ;
@@ -6,9 +6,9 @@
 * Работа с тренировочными датасетами из [Kaggle.com](https://www.kaggle.com/) ;
 * Реализация своих идей.
 
-## ○ Ссылки на примеры работ:
+## Ссылки на примеры работ:
 * [Рекомендательная система для кинотеатра](https://github.com/Ekzz0/ML_practice/blob/main/ML_practice/film_recommender_system.ipynb)
-* [Предсказание: оформил ли клиент банка срочный депозит](https://github.com/Ekzz0/ML_practice/blob/main/ML_practice/term_deposit_classification.ipynb)
+* [Оформил ли клиент банка срочный депозит?](https://github.com/Ekzz0/ML_practice/blob/main/ML_practice/term_deposit_classification.ipynb)
 * [Спам-фильтр ](https://github.com/Ekzz0/ML_practice/blob/main/ML_algorithms/Naive%20Bayes%20Classifier/NaiveBayes(Spam%20Filter).py)
 
 Ссылка на все используемые датасеты можно найти в `/datasets/...`
